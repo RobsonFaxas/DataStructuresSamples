@@ -1,0 +1,12 @@
+C:\robson\github\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.deps.json
+C:\robson\github\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.dll
+C:\robson\github\DataStructures\DataStructures\bin\Debug\net5.0\ref\DataStructures.dll
+C:\robson\github\DataStructures\DataStructures\bin\Debug\net5.0\DataStructures.pdb
+C:\robson\github\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.csproj.AssemblyReference.cache
+C:\robson\github\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\robson\github\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.AssemblyInfoInputs.cache
+C:\robson\github\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.AssemblyInfo.cs
+C:\robson\github\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.csproj.CoreCompileInputs.cache
+C:\robson\github\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.dll
+C:\robson\github\DataStructures\DataStructures\obj\Debug\net5.0\ref\DataStructures.dll
+C:\robson\github\DataStructures\DataStructures\obj\Debug\net5.0\DataStructures.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OUZDNoUKbOJXmnDeN713Aa7FZl44a08xS7r5a+pvUCoDJelfSyKc7SiV1u0LTSNyWVIeXjHaJSKwUeHKytY6Jg==",
+  "success": true,
+  "projectFilePath": "C:\\robson\\github\\DataStructures\\DataStructures.App\\DataStructures.App\\DataStructures.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\robson_ribeiro_faxas\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
